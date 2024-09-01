@@ -12,10 +12,8 @@ public class Sample {
             }
 
         }
-
-
-        int M = 3;
-        int j = 4;
+        int M = 32;
+        int j = 82;
         System.out.println(M+j);
     }
 }
