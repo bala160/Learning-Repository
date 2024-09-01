@@ -17,5 +17,6 @@ public class Sample {
         System.out.println(M+j);
 
         //Testing intellij Direct
+
     }
 }
