@@ -1,0 +1,21 @@
+for first time take Git clone <URL REPO> in you creadted dir path
+
+Eg :  git clone https://github.com/bala160/Learning-Repository.git
+
+step 1 : pull
+
+Eg : PS C:\Users\Balakrishnan\OneDrive\Desktop\GitHub\Learning-Repository\swagger\src\main\java\com\example\swagger> git pull
+
+Step 2 : add
+
+Eg : PS C:\Users\Balakrishnan\OneDrive\Desktop\GitHub\Learning-Repository\swagger\src\main\java\com\example\swagger> git add .\Git
+
+step 3 : commit
+
+Eg : PS C:\Users\Balakrishnan\OneDrive\Desktop\GitHub\Learning-Repository\swagger\src\main\java\com\example\swagger> git commit -m  "Modified variable name 2"
+[master 2bcbf21] Modified variable name 2
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+step 4 : push (merge conflict remove changes)
+
+Eg : PS C:\Users\Balakrishnan\OneDrive\Desktop\GitHub\Learning-Repository\swagger\src\main\java\com\example\swagger> git push
