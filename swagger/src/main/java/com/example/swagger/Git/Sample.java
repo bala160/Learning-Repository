@@ -10,6 +10,11 @@ public class Sample {
             else{
                 System.out.print(result);
             }
+
         }
+
+        int i = 1;
+        int j = 2;
+        System.out.println(i+j);
     }
 }
