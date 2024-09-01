@@ -13,7 +13,7 @@ public class Sample {
 
         }
         int M = 32;
-        int j = 82;
+        int j = 92;
         System.out.println(M+j);
     }
 }
