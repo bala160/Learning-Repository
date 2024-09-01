@@ -37,7 +37,12 @@ Eg : PS C:\Users\Balakrishnan\OneDrive\Desktop\GitHub\Learning-Repository\swagge
      * UAT
        master
 
-Step 8 :
+Step 8 : To checkout another branch
+
+Eg : PS C:\Users\Balakrishnan\OneDrive\Desktop\GitHub\Learning-Repository\swagger\src\main\java\com\example\swagger> git checkout SIT
+     Switched to branch 'SIT'
+
+
 
 
 
