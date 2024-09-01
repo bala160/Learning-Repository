@@ -14,7 +14,7 @@ public class Sample {
         }
 
 
-        int M = 3;
+        int M = 32;
         int j = 2;
         System.out.println(M+j);
     }
