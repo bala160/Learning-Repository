@@ -15,7 +15,7 @@ public class Sample {
 
 
         int M = 3;
-        int j = 2;
+        int j = 4;
         System.out.println(M+j);
     }
 }
