@@ -43,3 +43,13 @@ Step 8 : To checkout another branch
 Eg : PS C:\Users\Balakrishnan\OneDrive\Desktop\GitHub\Learning-Repository\swagger\src\main\java\com\example\swagger> git checkout SIT
      Switched to branch 'SIT'
 
+step 9 : To Merge another branch
+
+Eg : PS C:\Users\Balakrishnan\OneDrive\Desktop\GitHub\Learning-Repository\swagger\src\main\java\com\example\swagger> git merge master
+     Updating 29089b3..4a69940
+     Fast-forward
+      swagger/src/main/java/com/example/swagger/Git/Notes.txt | 8 +-------
+      1 file changed, 1 insertion(+), 7 deletions(-)
+
+
+
