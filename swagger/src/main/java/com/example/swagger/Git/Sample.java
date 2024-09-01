@@ -14,8 +14,8 @@ public class Sample {
         }
 
 
-        int K = 3;
+        int M = 3;
         int j = 2;
-        System.out.println(K+j);
+        System.out.println(M+j);
     }
 }
