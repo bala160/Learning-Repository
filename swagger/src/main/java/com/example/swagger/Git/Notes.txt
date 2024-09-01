@@ -25,3 +25,20 @@ Step 5 : commit all changes file
 Eg : PS C:\Users\Balakrishnan\OneDrive\Desktop\GitHub\Learning-Repository\swagger\src\main\java\com\example\swagger> git commit -am "Changes done in multiple file"
      [master 3ab45b5] Changes done in multiple file
       2 files changed, 4 insertions(+), 2 deletions(-)
+
+Step 6: To create new branch
+
+Eg : PS C:\Users\Balakrishnan\OneDrive\Desktop\GitHub\Learning-Repository\swagger\src\main\java\com\example\swagger> git checkout -b "UAT"
+     Switched to a new branch 'UAT'
+
+Step 7 : To find branch (current branch having * symbol)
+
+Eg : PS C:\Users\Balakrishnan\OneDrive\Desktop\GitHub\Learning-Repository\swagger\src\main\java\com\example\swagger> git branch
+     * UAT
+       master
+
+
+
+
+
+
