@@ -2,7 +2,7 @@ package com.example.swagger.Git;
 
 public class Sample {
     public static void main(String[] args) {
-        String[] name = {"Bala","Rahul","Jack"};
+        String[] name = {"Krish","Rahul","Jack"};
 
         for(String result : name){
             if(!result.equalsIgnoreCase("Jack"))
